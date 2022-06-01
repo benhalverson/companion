@@ -484,7 +484,7 @@
 		"popper.js": "1.16.1",
 		"read-package-json": "^2.1.2",
 		"select2": "4.0.13",
-		"sharp": "^0.27.2",
+		"sharp": "^0.30.5",
 		"shortid": "^2.2.16",
 		"socket.io": "^4.0.0",
 		"strip-ansi": "^5.2.0",
